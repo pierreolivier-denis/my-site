@@ -1,0 +1,18 @@
+.banner {
+	background-image: linear-gradient(-310deg, rgba(0, 230, 64, 0.35) 0%, rgba(78, 205, 196, 0.35) 80%), url(../../images/escalade2.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
